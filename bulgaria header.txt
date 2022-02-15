@@ -1,0 +1,7 @@
+﻿<header class="container container-fluid" id="keret">
+        <div class="row">
+            <div class="col-12 container-sm">
+                <h1 class="d-none d-sm-block">Bulgária</h1>
+            </div>
+        </div>
+    </header>

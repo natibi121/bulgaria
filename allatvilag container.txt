@@ -1,0 +1,31 @@
+ <div class="container mt-3 container-fluid">
+        <h2>Növény és állatvilág</h2>
+        
+        <p>Bulgáriában jellemzően közép-európai fajok vannak jelen, bár a magasabb helyeken sarkvidéki és alpesi fajok is előfordulnak. Bulgária az egyik legváltozatosabb élővilággal rendelkező európai ország, mintegy 3900 növényfajjal, 210 halfajjal, 37 hüllőfajjal, 428 madárfajjal (ebből 252 fészekrakó), 95 emlősfajjal, 18 kétéltű fajjal. Ezek közül 1300 faj endemikus, ez a növényvilág 5%-át, a rovarfajok 4,3%-át, a nem rovar fajok 8,8%-át jelenti. Az endemikus fajok közül 65 sebezhető, 15 veszélyeztetett és 12 súlyosan veszélyeztetett.</p>
+        <div id="accordion">
+            <div class="card">
+                <div class="card-header bg-info">
+                <a class="btn" data-bs-toggle="collapse" href="#collapseOne">
+                 <strong>Növénytakaró</strong>
+                </a>
+                 </div>
+            <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+              <div class="card-body bg-light">
+                    <p>A jégkorszak Bulgária alföldjein és síkságain nem volt különösebben nagy hatással a növénytakaróra, emiatt olyan reliktum fajok is megtalálhatóak, mint a keleti platán, a szelídgesztenye, a babérhárs vagy a balkáni páncélfenyő. A legelterjedtebb erdő a lombhullató (főleg tölgy és bükk), keleten a sztyeppei növények uralkodóak, délen mediterrán növényzet, macchia a jellemző, valamint olyan fajok, mint például az örökzöld puszpángfélék, a keleti platán, a görög boróka. A hegyoldalakon a tölgy és a bükk mellett hegyi szil, magas kőris, kislevelű hárs, gyertyán és juhar is él. A folyók mentén fűzfa, égerfa, nyárfa is megtalálható. A Kamcsija, a Batovszka és a Ropotamo vidékén elterjedt a rekettyés. A magas hegységeket tűlevelű erdők borítják, lucfenyővel, jegenyefenyővel, feketefenyővel, erdeifenyővel, balkáni páncélfenyővel, törpeborókával és törpefenyővel. Az erdeifenyő-erdők keverednek lombhullató fákkal, aljnövényzete állhat borókából és áfonyából. A lomboserdőkhöz kapcsolódnak a bokorerdők, orgonával, cserszömörcével, mogyorócserjékkel, krisztustövissel. Az endemikus növények közül a leggazdagabb családok az őszirózsafélék, a szegfűfélék, a tátogatófélék, a rózsafélék és a perjefélék.</p>
+              </div>
+            </div>
+          </div>
+            <div class="card">
+                <div class="card-header bg-info">
+                <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+                <strong>Állatvilág</strong>
+                </a>
+                </div>
+                <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                    <div class="card-body bg-light">
+                        <p>Akárcsak a növényvilága, az állatvilága is igen változatos. A Bolgár-tábla, a Balkán-hegység, a Rila–Rodopei-masszívum és az ország délnyugati része az európai–szibériai övezethez tartozik az állatvilág szempontjából, így a közép-európai fajoknak mintegy 60%-a itt is megtalálható (nyúl, sün, vakond, görény, mókus, fogoly, fürj, tőkés réce, sas, bagoly, vaddisznó, vadkecske, szarvas, őz, barna medve, farkas, róka, menyét, nyuszt, stb.) A mediterrán övezetben élő fajok közül többek között olyanok találhatóak Bulgáriában, mint a vízipocok, a mocsári teknős, a fácán, a sakál, viperafélék, siklók. Dél-Dobrudzsára jellemzőek a sztyeppei fajok, valamint olyan átmeneti fajok, mint a pelikán vagy a hattyú. Olyan állatok is megtalálhatóak Bulgáriában, mint a barna delfin, a palackorrú delfin, a vidra, a zerge, vagy a tigrisgörény.</p>
+                    </div>
+                </div>
+          </div>
+        </div>
+    </div>
